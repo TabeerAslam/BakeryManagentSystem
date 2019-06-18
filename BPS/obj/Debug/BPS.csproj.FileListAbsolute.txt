@@ -1,0 +1,39 @@
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\bin\Debug\BPS.exe.config
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.exe
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.pdb
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\bin\Debug\BPS.exe
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\bin\Debug\BPS.pdb
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\bin\Debug\MetroFramework.dll
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.AdminPanel.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.Entry.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.Login.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.Production.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.Purchase.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.Sales.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.Properties.Resources.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.SystemManager.resources
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.csproj.GenerateResource.Cache
+C:\Users\Khurram Rafique\Documents\Visual Studio 2013\Projects\BPS\BPS\obj\Debug\BPS.MyMessageBox.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.csprojAssemblyReference.cache
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.AdminPanel.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.MyMessageBox.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.Entry.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.Login.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.Production.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.Purchase.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.Sales.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.Properties.Resources.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.SystemManager.resources
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.csproj.GenerateResource.cache
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.csproj.CoreCompileInputs.cache
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.exe
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.pdb
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\bin\Debug\BPS.exe.config
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\bin\Debug\BPS.exe
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\bin\Debug\BPS.pdb
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\bin\Debug\MetroFramework.dll
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tabeer\Desktop\bps\BPS\BPS\obj\Debug\BPS.csproj.CopyComplete
